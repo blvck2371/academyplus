@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642819783472",
+    "project_id": "academyplus-1963",
+    "storage_bucket": "academyplus-1963.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642819783472:android:4cb0cc1a9618356075a6f5",
+        "android_client_info": {
+          "package_name": "com.example.academyplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsLYFevNFLVligFWzkbdEdF4P7KCKCFao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
